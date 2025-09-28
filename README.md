@@ -35,9 +35,11 @@ The cleaned dataset was structured in Power BI:
 Built DAX measures such as:
 1. Average days in waiting 
 2. Maximum days in waiting
-3. Average booking changes 
-4. Total booking where special request is greater than 0
-5. Ratio of total bookings to total cancellations
 
-6. Cancellation rate
+  Ensured a star schema design for efficiency and scalability. 
+4. Average booking changes 
+5. Total booking where special request is greater than 0
+6. Ratio of total bookings to total cancellations
+
+7. Cancellation rate
 
